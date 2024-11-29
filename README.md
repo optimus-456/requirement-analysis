@@ -48,7 +48,7 @@ Key Activities in Requirement Analysis
   Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
   Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
-### Types Of Requirements
+### Types of Requirements
 
 Functional Requirements:
 
