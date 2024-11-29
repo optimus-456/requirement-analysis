@@ -64,3 +64,25 @@ Non-Functional Requirements.
 3.Scalability
 4.Usability
 5.Reliability
+
+### Use Case Diagrams
+
+Use Case Diagrams
+Objective: Visual representation of interactions between users and the system.
+
+What are Use Case Diagrams?
+
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+How to create Use Case Diagrams:
+
+Identify actors (e.g., guest, registered user, admin).
+Define use cases (e.g., search properties, book property, manage listings).
+Draw interactions between actors and use cases.
+Benefits of Use Case Diagrams:
+
+Provide a clear visual representation of system functionalities.
+Help in identifying and organizing system requirements.
+Facilitate communication among stakeholders and development team.
+
+Link:
+https://drive.google.com/file/d/1_LMbEfYPaw6LfdPBFggHdycyqs6P-h8f/view?usp=sharing
