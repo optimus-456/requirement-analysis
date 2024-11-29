@@ -47,3 +47,20 @@ Key Activities in Requirement Analysis
   Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
   Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
   Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+### Types Of Requirements
+
+Functional Requirements:
+
+1.Search Property requirement.
+2.Booking property requirement.
+3.Payment Service Requirement.
+4.Property Listings Requirement.
+
+Non-Functional Requirements.
+
+1.Performance
+2.Security
+3.Scalability
+4.Usability
+5.Reliability
