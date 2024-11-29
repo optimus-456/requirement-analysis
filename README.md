@@ -12,6 +12,7 @@ The purpose of this repository includes the following:
 
 A crucial stage of the software development lifecycle (SDLC) is requirement analysis, during which the project team collects, examines, and specifies the needs for the software product that will be created. This procedure guarantees that everyone involved understands exactly what the system should accomplish and how it should do it.
 
+##Why is requirement analysis important?
 ##The importance of requirement analysis to SCLC( Software development Lifecycle):
 1.Clarity and Understanding: It lessens uncertainty by assisting in the comprehension of what the stakeholders anticipate from the program.
 Scope definition helps to avoid scope creep by clearly defining the project's parameters. 2.
