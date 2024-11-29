@@ -86,3 +86,52 @@ Facilitate communication among stakeholders and development team.
 
 Link:
 https://drive.google.com/file/d/1_LMbEfYPaw6LfdPBFggHdycyqs6P-h8f/view?usp=sharing
+
+### Acceptance Criteria
+
+What is acceptance Criteria?
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+##How to Define Acceptance Criteria:
+
+Be specific and measurable.
+Include functional and non-functional aspects.
+Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.
+
+##Benefits of Acceptance Criteria:
+
+Ensure all parties have a clear understanding of feature requirements.
+Provide a basis for testing and validation.
+Help in maintaining quality and meeting user expectations.
+
+Example: Acceptance Criteria for a Checkout Feature
+Feature: Checkout in the Booking Management System.
+
+Acceptance Criteria:
+
+User Authentication:
+
+Users must be logged in to access the checkout page.
+If not logged in, users are redirected to the login page.
+Payment Method Selection:
+
+Users can select from available payment methods, such as credit card, PayPal, or bank transfer.
+The selected payment method is saved securely for the transaction.
+Booking Summary Display:
+
+The checkout page displays a summary of the booking, including:
+Dates of the booking.
+Total cost (with breakdown of taxes and discounts, if applicable).
+Selected booking options (e.g., room type or add-ons).
+Payment Validation:
+
+The system validates the payment details before proceeding.
+Users are shown an error message if payment fails and can retry.
+Confirmation Message:
+
+Upon successful payment, users are shown a confirmation message with a unique booking reference number.
+Users receive an email with the booking confirmation and payment receipt.
+Error Handling:
+
+If an error occurs (e.g., payment gateway timeout), users are informed with a clear error message and given options to retry or contact support.
+These criteria ensure the Checkout feature is functional, user-friendly, and meets the expectations of both the business and the users.
